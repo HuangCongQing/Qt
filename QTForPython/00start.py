@@ -21,4 +21,7 @@ if __name__ == "__main__":
     # 所有应用必须创建一个应用（Application）对象
     app = QApplication(sys.argv)
     test = Window()
+    label = QLabel("Hello World!")
+    label.show()
     sys.exit(app.exec_())
+    
