@@ -6,8 +6,8 @@ Qt介绍： [为什么 qt 成为 c++ 界面编程的第一选择？](https://www
 > QT被广泛应用于嵌入式、电力系统、军工系统等要与硬件交互的界面系统中，并且大量的专业的跨平台应用软件也是使用QT开发。
 
 Qt分类（语言差别）-开发GUI已经定了，即GUI库是QT，你只要选择是用C++还是Python！（处理业务逻辑）
-* C++ QT
-* Qt for Python (PyQt5 and PySide2)
+* [C++ QT](c++QT.READEME.md)
+* [Qt for Python (PyQt5 and PySide2)](QTForPython.READEME.md)
 [*pyqt与qt* *c++* 开发windows客户端程序区别 - 薛定谔的AI - CSDN博客](https://blog.csdn.net/GeorgeAI/article/details/81044177)
 
 使用建议
