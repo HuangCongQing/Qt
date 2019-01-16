@@ -10,6 +10,9 @@ Qt分类（语言差别）-开发GUI已经定了，即GUI库是QT，你只要选
 * Qt for Python (PyQt5 and PySide2)
 [*pyqt与qt* *c++* 开发windows客户端程序区别 - 薛定谔的AI - CSDN博客](https://blog.csdn.net/GeorgeAI/article/details/81044177)
 
+使用建议
+* python实现想法，如果有运行速度要求就上C++肝，有GUI需求直接C#分分钟做出来，有跨平台需求会用QT搞。反正C#能调c++，py也能调c++，c++也能调python，都没差，最重要的还是核心的算法。
+
 ### website
 
 * [*Qt*中文官网 | 免费下载、安装完整的跨平台软件*开发*框架](https://www.qt.io/cn/)
@@ -17,6 +20,9 @@ Qt分类（语言差别）-开发GUI已经定了，即GUI库是QT，你只要选
  
 
 ### Issues
+
+### Plus
+* 知乎： [如今 Windows 软件开发究竟该用什么库，C#、*Qt*，还是其他？](https://www.zhihu.com/question/24461881/answer/140104855)
 
 
 ### License
